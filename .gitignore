@@ -1,0 +1,38 @@
+# Ignorar arquivos de build
+bin/
+obj/
+
+# Ignorar arquivos de usuário do Visual Studio
+*.user
+*.suo
+*.vs
+
+# Ignorar arquivos de configuração do Visual Studio
+.vscode/
+*.code-workspace
+
+# Ignorar arquivos de configuração do Rider
+.idea/
+
+# Ignorar arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Ignorar arquivos de dependências de NuGet
+*.nupkg
+packages/
+
+# Ignorar arquivos de teste
+TestResults/
+
+# Ignorar arquivos de backup
+*.bak
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# Ignorar arquivos de projeto do Visual Studio
+*.csproj.user
+*.dbmdl
+*.dbproj.user
